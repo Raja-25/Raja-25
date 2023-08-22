@@ -1,5 +1,6 @@
-<img src="my.jpg" style="height: 40%; width: 20%; border-radius: 50%;">
-
+<p align="center">
+    <img src="my.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;" />
+</p>
 <h1 id="about-me">💫 About Me:</h1>
 <p>Hi, I’m Raja Rajendra, a cloud computing fanatic and web developer. I
     have a passion for technology and am always striving to create
@@ -17,7 +18,11 @@
             src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white"
             alt="Instagram" /></a> <a href="https://linkedin.com/in/rajarajendra"><img
             src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white"
-            alt="LinkedIn" /></a></p>
+            alt="LinkedIn" /></a>
+            <a href="https://rajarajendra.netlify.app/">
+                <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Portfolio" style="height: 3%; border-radius: 4.5px;" />
+              </a>
+</p>
 <h1 id="tech-stack">💻 Tech Stack:</h1>
 <p><img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&amp;logo=c&amp;logoColor=white" alt="C" /> <img
         src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&amp;logo=css3&amp;logoColor=white"
@@ -58,15 +63,14 @@
         alt="SQLite" /> <img
         src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&amp;logo=postman&amp;logoColor=white"
         alt="Postman" />
-        <br>
-        <h1>📊 GitHub Stats:</h1>
-         <br>
-          <img
-        src="https://github-readme-stats.vercel.app/api?username=Raja-25&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" /><br />
-    <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Raja-25&amp;theme=dark&amp;hide_border=false" /><br />
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-25&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" />
+    <br>
+<h1>📊 GitHub Stats:</h1>
+<br>
+<img
+    src="https://github-readme-stats.vercel.app/api?username=Raja-25&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" /><br />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raja-25&amp;theme=dark&amp;hide_border=false" /><br />
+<img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-25&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" />
 </p>
 <h3 id="random-dev-quote">✍️ Random Dev Quote</h3>
 <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=radical" /></p>
@@ -75,6 +79,4 @@
         src="https://github-contributor-stats.vercel.app/api?username=Raja-25&amp;limit=5&amp;theme=dark&amp;combine_all_yearly_contributions=true" />
 </p>
 <hr />
-<p><a href="https://visitcount.itsvg.in"><img
-            src="https://visitcount.itsvg.in/api?id=Raja-25&amp;icon=0&amp;color=0" /></a></p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><a href="https://visitcount.itsvg.in">
