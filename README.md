@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="my.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;" />
+    <img src="my.jpg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;" class="img-circle" />
 </p>
 <h1 id="about-me">💫 About Me:</h1>
 <p>Hi, I’m Raja Rajendra, a cloud computing fanatic and web developer. I
