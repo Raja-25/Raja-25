@@ -29,12 +29,12 @@
 <h2>👨🏻‍💻Coding Profiles</h2>
 <p>
   <a href="https://leetcode.com/kl_2100032433/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40&logoHeight=40" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/kl_2100032433">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&logoWidth=40&logoHeight=40" alt="CodeChef" />
   </a>
-  <a href="https://www.hackerrank.com/h2100032351">
+  <a href="https://www.hackerrank.com/kl_2100032433">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&logoWidth=40&logoHeight=40" alt="HackerRank" />
   </a>
   <a href="https://codeforces.com/profile/kl_2100032433">
