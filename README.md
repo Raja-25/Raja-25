@@ -26,7 +26,7 @@
             
 </p>
 <!-- Coding Profiles -->
-<h2 align="center">Coding Profiles</h2>
+<h2>👨🏻‍💻Coding Profiles</h2>
 <p align="center">
   <a href="https://leetcode.com/rajgopalhota/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&logoWidth=40&logoHeight=40" alt="LeetCode" />
