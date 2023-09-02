@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/AtCoder-663300?style=for-the-badge&logo=atcoder&logoColor=white&logoWidth=40&logoHeight=40" alt="AtCoder" />
   </a>
     <a href="https://rajarajendra.netlify.app/"><img
-            src="https://img.shields.io/badge/Portfolio-0A0A0A.svg?logo=leetcode&amp;logoColor=white"
+            src="https://img.shields.io/badge/Leetcode-0A0A0A.svg?logo=leetcode&amp;logoColor=white"
             alt="Leetcode" /></a>
   <!-- Add more coding profile badges here -->
 </p>
